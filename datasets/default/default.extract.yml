@@ -1,0 +1,9 @@
+extract:
+  Account:
+    fields:
+    - Name
+    - Type
+    - BillingStreet
+    - BillingCity
+    - BillingState
+    - BillingPostalCode
